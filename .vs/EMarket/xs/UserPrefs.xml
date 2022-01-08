@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{8C0AE95E-EC51-454A-9DFB-61036011A0BA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/Config/ProductConfiguration.cs">
+    <Files>
+      <File FileName="API/Extensions/ApplicationServicesExtensions.cs" Line="14" Column="69" />
+      <File FileName="API/Startup.cs" />
+      <File FileName="API/Extensions/ٍٍSwaggerServiceExtensions.cs" Line="1" Column="1" />
+      <File FileName="API/Controllers/WeatherForecastController.cs" />
+      <File FileName="API/Controllers/ProductsController.cs" Line="38" Column="10" />
+      <File FileName="Core/Specifications/ISpecifications.cs" Line="16" Column="37" />
+      <File FileName="Core/Specifications/BaseSpecification.cs" Line="37" Column="23" />
+      <File FileName="Infrastructure/Data/SpecificationEvaluator.cs" Line="29" Column="98" />
+      <File FileName="Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" Line="30" Column="62" />
+      <File FileName="Infrastructure/Data/StoreContext.cs" Line="16" Column="38" />
+      <File FileName="API/Program.cs" Line="20" Column="53" />
+      <File FileName="Core/Specifications/ProductSpecParams.cs" Line="1" Column="1" />
+      <File FileName="API/Helpers/Pagination.cs" Line="21" Column="1" />
+      <File FileName="Core/Contrats/IGenericRepository.cs" Line="11" Column="49" />
+      <File FileName="Infrastructure/Data/GenericRepository.cs" Line="1" Column="1" />
+      <File FileName="Core/Specifications/ProductWithFiltersForCountSpecification.cs" Line="7" Column="88" />
+      <File FileName="Core/Contrats/IProductRepository.cs" Line="1" Column="1" />
+      <File FileName="API/Helpers/ProductUrlResolver.cs" Line="1" Column="1" />
+      <File FileName="API/Controllers/ErrorController.cs" Line="1" Column="1" />
+      <File FileName="API/Controllers/BaseApiController.cs" Line="1" Column="1" />
+      <File FileName="API/Helpers/MappingProfiles.cs" />
+      <File FileName="API/Controllers/BuggyController.cs" Line="1" Column="1" />
+      <File FileName="Core/Entities/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="Core/Entities/Product.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/ProductRepository.cs" Line="9" Column="56" />
+      <File FileName="Core/Entities/ProductBrand.cs" Line="1" Column="1" />
+      <File FileName="Core/Entities/ProductType.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/StoreContextSeed.cs" Line="1" Column="1" />
+      <File FileName="API/Errors/ApiException.cs" Line="1" Column="1" />
+      <File FileName="API/Errors/ApiResponse.cs" Line="1" Column="1" />
+      <File FileName="API/Errors/ValidationErrorResponse.cs" Line="1" Column="1" />
+      <File FileName="API/Middleware/ExceptionMiddleware.cs" Line="35" Column="52" />
+      <File FileName="API/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Infrastructure/Data/Config/ProductConfiguration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EMarket" expanded="True">
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="SeedData" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alybadarakeita/Documents/EcommerceApp/EMarket/Infrastructure/Data/StoreContextSeed.cs" relfile="Infrastructure/Data/StoreContextSeed.cs" line="34" column="1" />
+      <Breakpoint file="/Users/alybadarakeita/Documents/EcommerceApp/EMarket/Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" relfile="Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" line="31" column="1" />
+      <Breakpoint file="/Users/alybadarakeita/Documents/EcommerceApp/EMarket/Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" relfile="Core/Specifications/ProductsWithTypesAndBrandsSpecification.cs" line="37" column="1" />
+      <Breakpoint file="/Users/alybadarakeita/Documents/EcommerceApp/EMarket/Infrastructure/Data/SpecificationEvaluator.cs" relfile="Infrastructure/Data/SpecificationEvaluator.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
